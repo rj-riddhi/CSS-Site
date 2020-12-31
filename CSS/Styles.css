@@ -79,8 +79,9 @@ p{
 }
 .mountain{
   display: block;
-  position: relative;
+  position: absolute;
   margin: auto auto auto 25rem;
+  padding : auto 15rem auto auto;
 }
 .header{
   line-height: 2;
