@@ -79,7 +79,7 @@ p{
 }
 .mountain{
   display: block;
-  position: relative;
+  position: absolute;
   margin: auto auto auto 25rem;
 }
 .header{
