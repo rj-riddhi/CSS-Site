@@ -74,13 +74,13 @@ p{
   position: absolute;
   margin: auto 5rem auto auto;
   display: block;
-  padding :4rem auto auto 15rem;
+  padding-top : 4rem;
 
 }
 .mountain{
   display: block;
   position: relative;
-  margin: auto 20rem auto auto;
+  margin: auto 23rem auto auto;
 }
 .header{
   line-height: 2;
